@@ -1,3 +1,3 @@
 # NetCoreAPI
 
-![](img/Swagger)
+![](img/Swagger.png)
